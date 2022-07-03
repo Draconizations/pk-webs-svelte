@@ -1,8 +1,11 @@
-Currently viewable here! https://pk-webs-beta.spectralitree.com/
+# THIS REPO IS UNMAINTAINED
+That does not mean the project is deprecated, though...
 
-# pk-webs: beta
+I am happy to announce that pk-webs-beta now lives on as the [official PluralKit dashboard](https://github.com/PluralKit/PluralKit/tree/main/dashboard)! Feel free to make contributions to the official PluralKit repository. All links to https://pk-webs-beta.spectralitree.com should be redirecting to https://dash.pluralkit.me instead.
 
-This repo is a complete rewrite of [pk-webs](https://github.com/Spectralitree/pk-webs). Written in svelte instead of react.
+## pk-webs: beta
+
+This is a complete rewrite of [pk-webs](https://github.com/Spectralitree/pk-webs). Written in svelte instead of react.
 
 pk-webs uses [PluralKit](https://pluralkit.me/)'s api to display, members and groups registered on PluralKit. You can also supply your system's token to edit your own data.
 
